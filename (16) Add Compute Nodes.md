@@ -15,7 +15,8 @@ This example is based on the emvironment like follows.
      |  Keystone   Glance    |     |                       |
      |  Nova API             |     |                       |
      +-----------------------+     +-----------------------+
-     ```
+     
+ ```
 
 [1]	
 Install KVM Hypervisor on Compute Node, refer to here.
