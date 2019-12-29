@@ -3,13 +3,14 @@
 This is the exmaple of Cloud Computiong by OpenStack Stein.
 Install some services that some components of OpenStack needs for system requirements on here.
 This example is based on the emvironment like follows.
+```
         eth0|10.0.0.30 
 +-----------+-----------+
 |    [ Control Node ]   |
 |  MariaDB    RabbitMQ  |
 |  Memcached            |
 +-----------------------+
-
+```
 [1]	Install NTP Server to adjusts the date, refer to here.
 [2]	Install MariaDB Server, refer to here.
 [3]	Add Openstack Stein's repository.
