@@ -11,7 +11,8 @@ This example is based on the environment like follows.
 |  MariaDB    RabbitMQ  |
 |  Memcached  httpd     |
 |  Keystone   Glance    |
-+-----------------------+```
++-----------------------+
+```
 
 [1]	Add users and others for Glance in Keystone.
 
