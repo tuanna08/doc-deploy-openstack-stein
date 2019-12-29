@@ -4,7 +4,8 @@
 Install and Configure OpenStack Image Service (Glance).
 This example is based on the environment like follows.
         eth0|10.0.0.30 
-```+-----------+-----------+
+```
++-----------+-----------+
 |    [ Control Node ]   |
 |                       |
 |  MariaDB    RabbitMQ  |
