@@ -21,7 +21,9 @@ This example is based on the emvironment like follows.
 [1]	
 Install KVM Hypervisor on Compute Node, refer to here.
 It's unnecessarry to set Bridge networking on the section [3] of the link.
+
 [2]	Install Nova-Compute.
+
 ```
 root@node01:~# apt -y install nova-compute-kvm
 ```
